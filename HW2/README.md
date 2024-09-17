@@ -7,3 +7,5 @@ I worked with Mohammed Mousavi
 # what things were you responsible
 I was responsible for the formulation of hypothesis for forms 1 (Does exercise help lose more weight than diet alone?) and 2 (Do urban citizens use cellphone more than their rural counterpart?).
 I also work with Mohammed Mousavi in generating, Running and interpretation of the codes on the Philly Parks dataset.
+
+For the Citibikes dataset i and Mohammed came up with the hypothesis and chose the part of the data we are going to use for the hypothesis and also the appropriate statistical test we will use to test the data.
